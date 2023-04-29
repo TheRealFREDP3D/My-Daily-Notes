@@ -1,4 +1,4 @@
-# ChatGPT Tips
+# Daily Notes - Tips
 
 ## Making the most out of my daily notes
 
