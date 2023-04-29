@@ -12,7 +12,7 @@ It's a thing I'm gonna try for a while.  I hope to get a better picture of what 
 
 ---
 
-[ChatGPT Tips - Making the most out of my daily notes](ChatGPT%20Tips%20-%20Making%20the%20most%20out%20of%20my%20daily%20notes.md)
+[Tips - Making the most out of my daily notes](ChatGPT%20Tips%20-%20Making%20the%20most%20out%20of%20my%20daily%20notes.md)
 
 [Publish daily on GitHub - Instructions](Publish%20daily%20on%20GitHub%20-%20Instructions.md)
 
